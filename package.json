@@ -1,0 +1,24 @@
+{
+    "name": "friend-finder",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/jcpierce022/Friend-Finder---friend-finder.git"
+    },
+    "author": "Christi Savino",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/jcpierce022/Friend-Finder---friend-finder/issues"
+    },
+    "homepage": "https://github.com/jcpierce022/Friend-Finder---friend-finder#readme",
+    "dependencies": {
+      "body-parser": "^1.15.2",
+      "express": "^4.14.0",
+      "path": "^0.12.7"
+    }
+  }
